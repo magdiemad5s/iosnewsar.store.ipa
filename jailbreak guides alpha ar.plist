@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/magdiemad5s/iosnewsar.store.ipa/raw/master/دليل%20الجلبريك.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://github.com/kpwn/yalu102/blob/master/yalu102/</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://github.com/kpwn/yalu102/blob/master/yalu102/</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.jailbreka.guide.alpha.com</string>
+				<key>bundle-version</key>
+				<string>2.2.2.2</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string> للرجاد تحميل اداة appsync unified قبل...دليل الجلبريك...alpha version</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
